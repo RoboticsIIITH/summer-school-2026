@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "coordinate-transforms"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "==3.10.*"
+dependencies = [
+ "nuscenes-devkit",
+ "rerun-sdk==0.26.0",
+]
+
+
+[tool.uv]
+override-dependencies = [
+  "numpy<2"
+]
