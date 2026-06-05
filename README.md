@@ -32,7 +32,7 @@ For full schedule and details, please refer to the [Google Spreadsheet](https://
 | 18 | [Multi-View Geometry - I](lectures/18_multi_view_geometry_I/) | Aadith |
 | 19 | [Multi-View Geometry - II](lectures/19_multi_view_geometry_II/) | Aadith |
 | 20 | [Multi-View Geometry - III](lectures/20_multi_view_geometry_III/) | Krish |
-| 21 | [SLAM - I](lectures/21_slam_I/) | Krish |
+| 21 | [SLAM - I](lectures/21_visual_slam/) | Krish |
 | 22 | [SLAM - II](lectures/22_slam_II/) | Tarun |
 | 23 | [ROS - I](lectures/23_ros_I/) | Anuj |
 | 24 | [ROS - II](lectures/24_ros_II/) | Anuj |
