@@ -34,6 +34,6 @@ For full schedule and details, please refer to the [Google Spreadsheet](https://
 | 20 | [Multi-View Geometry - III](lectures/20_multi_view_geometry_III/) | Krish |
 | 21 | [SLAM - I](lectures/21_slam_I/) | Krish |
 | 22 | [SLAM - II](lectures/22_slam_II/) | Tarun |
-| 23 | [ROS - I](lectures/23_ros_I/) | Tarun, Soham |
-| 24 | [ROS - II](lectures/24_ros_II/) | Tarun, Soham |
+| 23 | [ROS - I](lectures/23_ros_I/) | Anuj |
+| 24 | [ROS - II](lectures/24_ros_II/) | Anuj |
 | 25 | [Learning for 3D Vision](lectures/25_learning_for_3d_vision/) | Akash Kumbar |
