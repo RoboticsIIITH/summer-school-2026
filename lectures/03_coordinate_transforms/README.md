@@ -272,3 +272,15 @@ When all 4 tasks are implemented correctly:
 
 - NumPy Crash Course  
   https://www.youtube.com/watch?v=QUT1VHiLmmI
+
+---
+
+# Lecture 3: Coordinate Transforms
+
+**Presenter:** Aadith
+
+## Topics Covered
+- Rotation Matrices Representations
+- Homogenous Coordinates
+- SO(3) representation - Euler Angles, Quaternions
+- Linear and Affine Transformations
